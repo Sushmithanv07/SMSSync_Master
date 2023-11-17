@@ -1,5 +1,6 @@
-<h5>SMSSync_Master App, a robust SMS integration solution developed using Spring Boot. 
-  This project leverages the power of Twilio to seamlessly incorporate SMS functionality, ensuring reliable and efficient communication within your applications.</h5>
+<h4>Introduction</h4>
+  SMSSync_Master App, a robust SMS integration solution developed using Spring Boot. 
+  This project leverages the power of Twilio to seamlessly incorporate SMS functionality, ensuring reliable and efficient communication within your applications.
 <h5>Features</h5>
 Simple Integration: Effortlessly integrate secure OTP verification into your applications with a straightforward implementation process.
 
@@ -11,7 +12,7 @@ Security First: Prioritize security with a carefully designed OTP system, offeri
 Clone the Repository:
 
 ```bash
-`Copy code`
+Copy code
 git clone https://github.com/Sushmithanv07/SMSSync_Master.git
 
 ```
