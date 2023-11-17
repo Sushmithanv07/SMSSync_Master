@@ -11,8 +11,8 @@ Security First: Prioritize security with a carefully designed OTP system, offeri
 Clone the Repository:
 
 ```bash
-Copy code
-git clone https://github.com/YourUsername/SMSSync_Master.git
+`Copy code`
+git clone https://github.com/Sushmithanv07/SMSSync_Master.git
 
 ```
 
