@@ -28,8 +28,8 @@ Build and run the application using Maven or your preferred build tool. Ensure t
 <h3>Integrate into Your Application:</h3>
 Follow the provided documentation to seamlessly integrate the OTP verification system into your applications.
 
-<h5>Documentation</h5>
+<h4>Documentation</h4>
 Comprehensive documentation is available in the Wiki section, providing detailed instructions on configuration, integration, and customization.
 
-<h5>Support and Contribution</h5>
+<h4>Support and Contribution</h4>
 For issues, feature requests, or contributions, please open an issue or submit a pull request. I welcome collaboration from the community to enhance and improve the security features of this OTP verification system.
