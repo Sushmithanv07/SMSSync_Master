@@ -10,7 +10,7 @@ Security First: Prioritize security with a carefully designed OTP system, offeri
 <h5>Getting Started</h5>
 Clone the Repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/YourUsername/SMSSync_Master.git
 Configuration:
