@@ -12,7 +12,8 @@ Clone the Repository:
 
 ```bash
 Copy code
-git clone https://github.com/YourUsername/SMSSync_Master.git```
+git clone https://github.com/YourUsername/SMSSync_Master.git
+```bash
 Configuration:
 Configure the application by adding your Twilio credentials and other necessary settings in the designated configuration files.
 
